@@ -1,0 +1,29 @@
+audio {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.letra {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px auto;
+    width: 100%;
+}
+
+.letra h1 {
+    color: #ff9d00;
+}
+
+.letra p {
+    font-size: 25px;
+    line-height: 1.6;
+    color: #000000;
+    font-weight: bold;
+    background: #ffffff;
+    padding: 10px;
+}
+
+
+
+
